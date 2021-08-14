@@ -7,7 +7,7 @@
 
 ##### ETAPAS:
   - criar datalake no s3
-  - fazer upload do livro sherlock.txt para o diretorio data
-  - criar um cluster emr e iniciar o job
+  - fazer [*upload*](https://github.com/elnataoliveira/cognizant-cloud-data-engineer/blob/main/etl/s3_load.py) do livro sherlock.txt para o diretorio data no bucket
+  - criar um [*cluster*](https://github.com/elnataoliveira/cognizant-cloud-data-engineer/blob/main/etl/dio-live-wordcount-test.py) emr e [*iniciar*](https://github.com/elnataoliveira/cognizant-cloud-data-engineer/blob/main/configure/job.sh) o job
  
 
