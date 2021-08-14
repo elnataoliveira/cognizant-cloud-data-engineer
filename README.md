@@ -3,7 +3,7 @@
 ## BootCamp DIO - Cognizant Cloud Data Engineer
 ### Desafio | Ecosistema BigData na nuvem | aws Cloud
 #### Criando um Ecossistema Big Data na Nuvem Totalmente Gerenciado com AWS Cloud
-##### Contador de palavras [*livro*](https://github.com/cognizant-cloud-data-engineer/blob/main/datalake-dio/output)
+##### Contador de palavras [*livro*](https://github.com/elnataoliveira/cognizant-cloud-data-engineer/tree/main/datalake-dio/output)
 
 ##### ETAPAS:
   - criar datalake no s3
